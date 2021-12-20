@@ -1,0 +1,6 @@
+#Crear package.json
+npm init -y
+#Instalar plugins de eslint (Herramienta de analisis de codigo)
+npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D
+#Instalar dotenv para cargar variables de entorno desde un .env
+npm i dotenv
